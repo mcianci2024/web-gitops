@@ -3,8 +3,6 @@ kind: Component
 metadata:
   name: gitops-web
   description: WebSite Gitops
-  annotations:
-    backstage.io/techdocs-ref: url:https://github.com/mcianci2024/codeia-techdocs
 spec:
   type: website
   lifecycle: production
